@@ -14,6 +14,7 @@ namespace LogicalPrograms
             Fibonacci.FibonacciNum();
             PerfectNumber.Perfect();
             PrimeNumber.CheckPrime();
+            ReverseNumber.FindReverse();
             Console.ReadLine();
 
         }
