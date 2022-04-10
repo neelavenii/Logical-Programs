@@ -15,6 +15,7 @@ namespace LogicalPrograms
             PerfectNumber.Perfect();
             PrimeNumber.CheckPrime();
             ReverseNumber.FindReverse();
+            CoupanNumber.CheckCoupon();
             Console.ReadLine();
 
         }
