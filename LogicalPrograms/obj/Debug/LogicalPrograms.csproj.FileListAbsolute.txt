@@ -1,0 +1,8 @@
+C:\Users\Eswar\source\repos\LogicalPrograms\LogicalPrograms\bin\Debug\LogicalPrograms.exe.config
+C:\Users\Eswar\source\repos\LogicalPrograms\LogicalPrograms\bin\Debug\LogicalPrograms.exe
+C:\Users\Eswar\source\repos\LogicalPrograms\LogicalPrograms\bin\Debug\LogicalPrograms.pdb
+C:\Users\Eswar\source\repos\LogicalPrograms\LogicalPrograms\obj\Debug\LogicalPrograms.csproj.AssemblyReference.cache
+C:\Users\Eswar\source\repos\LogicalPrograms\LogicalPrograms\obj\Debug\LogicalPrograms.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eswar\source\repos\LogicalPrograms\LogicalPrograms\obj\Debug\LogicalPrograms.csproj.CoreCompileInputs.cache
+C:\Users\Eswar\source\repos\LogicalPrograms\LogicalPrograms\obj\Debug\LogicalPrograms.exe
+C:\Users\Eswar\source\repos\LogicalPrograms\LogicalPrograms\obj\Debug\LogicalPrograms.pdb
