@@ -12,6 +12,7 @@ namespace LogicalPrograms
         {
             Console.WriteLine("Welcome to Logical programs");
             Fibonacci.FibonacciNum();
+            PerfectNumber.Perfect();
             Console.ReadLine();
 
         }
